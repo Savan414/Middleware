@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<order id="1543294676787">
+    <items number="0905A044">
+        <name>Minced Rib Meat by VX</name>
+        <price>6.49</price>
+        <quantity>1</quantity>
+    </items>
+    <items number="1409S004">
+        <name>Fudge Ice Cream with Strawberry by AV</name>
+        <price>7.15</price>
+        <quantity>4</quantity>
+    </items>
+    <items number="0905A112">
+        <name>T6 Sirloin Meat</name>
+        <price>6.01</price>
+        <quantity>2</quantity>
+    </items>
+    <items number="2002H063">
+        <name>Semi-Cheddar Cheese by JC</name>
+        <price>4.26</price>
+        <quantity>1</quantity>
+    </items>
+    <submitted>2018-11-26T23:57:56.788-05:00</submitted>
+</order>
